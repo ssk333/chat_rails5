@@ -1,24 +1,6 @@
 # README
+#Rails5を用いたchat作成
+*rails5.01
+*ruby2.3
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+rails5はPumaなのでredisは使いません．
